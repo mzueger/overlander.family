@@ -1,0 +1,20 @@
+aside.sidebar.col-md-4.col-xs-12
+  .aboutme.widget
+    h3.aside-title ÜBER UNS
+    .about-me-image
+    p.about-me-text= theme.description
+
+  //- .gallery.widget
+  //-   h3.aside-title GALERIE
+  //-   ul.instagram-pic
+
+  .all-tags.widget
+    h3.aside-title TAGS
+    .all-tags-box!= list_tags({show_count:false,style:null,separator:''})
+
+  .follow-me.widget
+    h3.aside-title FOLGE UNS
+    .follow-icons
+      a.instagram-link(href=theme.instagram target='_blank')
+      a.github-link(href=theme.github target='_blank')
+
