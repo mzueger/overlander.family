@@ -4,7 +4,6 @@ tags:
   - Andorra
   - Spanien
   - Pas de la Casa
-  - Andorra la Vella
   - Aínsa
   - Huesca
   - Loarre
@@ -65,15 +64,18 @@ Nach dem Frühstück in einem Café und einem kurzen Rundgang durch _Huesca_ am 
 
 ![Blick auf Loarre ](/images/2024-05_pyrenaeen/IMG_3937.JPG)
 
-Ohne Frühstück brechen wir zum _Castillo de Loarre_ auf. Die Abkürzung durch den Ort erweist sich als Falle, die Gassen sind extrem schmal und die 5.3 m vom Hilux bekommen wir kaum um die Häuserecken. Zum Glück ist sonst niemand unterwegs und so kommen wir eine halbe Stunde später beim Schloss an. Enrik ist ganz begestert und macht sich mit seinem Holzschwert auf zur Eroberung. Wir schlendern durch die alten Mauern und steigen über steile Treppen bis auf den Turm. Die Aussicht ist grandios, auch wenn das Wetter nicht ganz mitmacht.
+Ohne Frühstück brechen wir zum _Castillo de Loarre_ auf. Die Abkürzung durch den Ort erweist sich als Falle, die Gassen sind extrem schmal und die 5.3 m vom Hilux bekommen wir kaum um die Häuserecken. Zum Glück ist sonst niemand unterwegs und so kommen wir eine halbe Stunde später beim Schloss an. Enrik ist ganz begeistert und macht sich mit seinem Holzschwert auf zur Eroberung. Wir schlendern durch die alten Mauern und steigen über steile Treppen bis auf den Turm. Die Aussicht ist grandios, auch wenn das Wetter nicht ganz mitmacht.
 ![Castillo de Loarre ](/images/2024-05_pyrenaeen/IMG_20240517_110959610_HDR.jpg)
 
 ![Enrik der Ritter ](/images/2024-05_pyrenaeen/IMG_20240517_111552.jpg)
 
-Nach dem Frühstück/Mittagessen brechen wir auf und machen Kilometer, über _Ayerbe_ und _Ejea de los Caballeros_ geht es bis nach _Tudela_. Einen Campingplatz gibt es weit und breit nicht und der Wohmobilstellplatz in _Arguedas_ ist nichts weiter als ein Parkplatz - also noch eine Nacht wild campen. Wir fahren raus aus der Ortschaft und suchen ein verlassene Piste. Schnell finden wir ein passendes Fleckchen. Die unzähligen Mücken plagen uns nur sehr kurz, denn es kommt ein häftiges Gewitter mit Starkregen und Hagel. Die Halbwüste verwandelt sich in ein riesiges Schlammfeld und plötzlich stehen wir direkt an einem Bach.
-![Die Felder sind häufig gesäumt von Klatschmohn ](/images/2024-05_pyrenaeen/IMG_3948.JPG)
+Nach dem Frühstück/Mittagessen brechen wir auf und machen Kilometer, über _Ayerbe_ und _Ejea de los Caballeros_ geht es bis nach _Tudela_.
+![Klatschmohn am Feldrand ](/images/2024-05_pyrenaeen/IMG_3948.JPG)
 
-Nach einer stürmischen Nacht werden wir am Morgen von der Sonne geweckt. Die Temperatur steigt schnell an und wir kämpfen uns durch den ganzen Schlamm zurück auf die Strasse. Beim Besucherzentrum zum _Parque Natural de las Bardenas Reales_ fällt unser schlammverschmierter Toyota zwischen all den Wohnmobilen leicht auf - aus allen Öffnungen tropft Schlamm und braune Rinnsale fliessen von unserem Parkfeld. Nach einem improvisierten Frühstück geht es auf die Schotterpiste um den Naturpark. Die Landschaft ist eindrücklich und die Sonne strahlt vom Himmel. Unseren Abstecher zum _Embalse de Malvecino_ müssen wir abbrechen - Fahrverbot - aber das Offroadfahren macht spass und der Hilux kann im Schlamm zeigen wofür er gebaut wurde. Müde verlassen wir am Nachmittag den Park und brechen zum nächsten Campingplatz auf - wir müssen dringend mal wieder duschen.
+Einen Campingplatz gibt es weit und breit nicht und der Wohmobilstellplatz in _Arguedas_ ist nichts weiter als ein Parkplatz - also noch eine Nacht wild campen. Bevor wir die Ortschaft verlassen gönnen wir uns noch einen Drink und ein paar Tapas. Dabei entdeckt Enrik ein neues Lieblingsessen: Gulas. Mit vollem Magen suchen wir dann eine verlassene Piste. Schnell finden wir ein passendes Fleckchen für die Nacht. Die unzähligen Mücken plagen uns nur sehr kurz, denn ein häftiges Gewitter mit Starkregen und Hagel zieht auf. Die Halbwüste verwandelt sich innert Minuten ein riesiges Schlammfeld und plötzlich stehen wir direkt an einem Bach.
+![Vom Camp-Spot zurück auf die Strasse ](/images/2024-05_pyrenaeen/VID_20240518_101613_exported_6933.jpg)
+
+Nach einer stürmischen Nacht werden wir am Morgen von der Sonne geweckt. Die Temperatur steigt schnell an und wir kämpfen uns durch den ganzen Schlamm zurück auf die Strasse. Beim Besucherzentrum zum _Parque Natural de las Bardenas Reales_ fällt unser schlammverschmierter Toyota zwischen all den Wohnmobilen leicht auf - aus allen Öffnungen tropft Schlamm und braune Rinnsale fliessen von unserem Parkfeld. Nach einem improvisierten Frühstück geht es auf die Schotterpiste um den Naturpark. Die Landschaft ist eindrücklich und die Sonne strahlt vom Himmel. Unseren Abstecher zum _Embalse de Malvecino_ müssen wir abbrechen - Fahrverbot - aber das Offroadfahren macht Spass und der Hilux kann im Schlamm zeigen wofür er gebaut wurde. Müde verlassen wir am Nachmittag den Park und brechen zum nächsten Campingplatz auf - wir müssen dringend mal wieder duschen.
 ![Bardenas Reales ](/images/2024-05_pyrenaeen/IMG_3951.JPG)
 
 ![Bardenas Reales ](/images/2024-05_pyrenaeen/IMG_3963.JPG)
@@ -94,7 +96,7 @@ Nach einer stürmischen Nacht werden wir am Morgen von der Sonne geweckt. Die Te
 
 ![Bardenas Reales ](/images/2024-05_pyrenaeen/IMG_4073.JPG)
 
-Bevor wir nach _Pamplona/Iruña_ aufbrechen besichtigen wir am nächsten Morgen noch das hübsche Örtchen _Olite_. Als wir durchs Tor in die Altstadt spazieren wollen fallen uns die vielen Leute, Polizei und ein Priester auf. Gespannt was da wohl los ist warten wir mit allen anderen. Nach wenigen Minuten wird die Strasse gesperrt und ein paar Dutzend Personen in schwarzen Kutten marschieren gefolgt vom Prieser Richtung _Iglesia de Santa Maria_. Die Hexenverbrennung lassen wir aus und besichtigen stattdessen die engen Gassen um den _Palacio Real de Olite_.
+Bevor wir nach _Pamplona/Iruña_ aufbrechen besichtigen wir am nächsten Morgen noch das hübsche Örtchen _Olite_. Als wir durchs Tor in die Altstadt spazieren wollen fallen uns die vielen Leute, Polizei und ein Priester auf. Gespannt was da wohl los ist warten wir mit allen Anderen. Nach wenigen Minuten wird die Strasse gesperrt und ein paar Dutzend Personen in schwarzen Kutten marschieren gefolgt vom Prieser Richtung _Iglesia de Santa Maria_. Die Hexenverbrennung lassen wir aus und besichtigen stattdessen die engen Gassen um den _Palacio Real de Olite_.
 ![Olite ](/images/2024-05_pyrenaeen/IMG_4087.JPG)
 
 ![Olite ](/images/2024-05_pyrenaeen/IMG_4091.JPG)
