@@ -3,7 +3,10 @@ title: Pyrenäen
 tags:
   - Andorra
   - Spanien
-  - Pas de la Casa
+  - Katalonien
+  - Aragonien
+  - Navarra
+  - Baskenland
   - Aínsa
   - Huesca
   - Loarre

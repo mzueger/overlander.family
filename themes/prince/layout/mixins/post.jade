@@ -16,9 +16,6 @@ mixin posts()
         +postPhotos(item)
         h2.post-title
           -var title = item.title !== '' ? item.title:__('no title')
-          if item.link !== ''
-            a.post-link(href=url_for(item.link) target='_blank')=title
-          else
             a.post-link(href=url_for(item.path))=title
         +postInfo(item)
         if item.excerpt
@@ -74,11 +71,6 @@ mixin postList()
     - posts.each(function(item){
       .post-item
         -var title = item.title !== '' ? item.title:__('no title')
-        if item.link !== ''
-          a.post-item-link(href=url_for(item.link) target='_blank')
-            span.post-title.col-sm-9.col-xs-12=title
-            span.post-date.col-sm-3.col-xs-12=full_date(item.date,'MMM Do YYYY')
-        else
           a.post-item-link(href=url_for(item.path))
             span.post-title.col-sm-9.col-xs-12=title
             span.post-date.col-sm-3.col-xs-12=full_date(item.date,'MMM Do YYYY')
