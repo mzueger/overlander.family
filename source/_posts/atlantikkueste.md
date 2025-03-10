@@ -14,7 +14,7 @@ category:
 date: 2016-07-11 18:02:00
 author:
   name: Fränzi
-published: false
+published: true
 ---
 
 ![](/images/2016-07_atlantikkueste/PuntaNinfas.jpg)
