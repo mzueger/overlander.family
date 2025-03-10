@@ -16,7 +16,7 @@ category:
 date: 2016-06-08 19:22:00
 author:
   name: Martin
-published: false
+published: true
 ---
 
 ![](/images/2016-06_patagonien/CerroFitzRoy.jpg)
