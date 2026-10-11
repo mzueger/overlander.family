@@ -1,7 +1,7 @@
 ---
 title: Nicaragua
 tags:
-  - Südamerika
+  - Mittelamerika
   - Nicaragua
 category:
   - Reiseberichte

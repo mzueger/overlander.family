@@ -1,7 +1,7 @@
 ---
 title: El Salvador & Honduras
 tags:
-  - Südamerika
+  - Mittelamerika
   - El Salvador
   - Honduras
 category:

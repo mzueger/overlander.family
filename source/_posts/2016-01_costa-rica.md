@@ -1,7 +1,7 @@
 ---
 title: Costa Rica
 tags:
-  - Südamerika
+  - Mittelamerika
   - Costa Rica
 category:
   - Reiseberichte

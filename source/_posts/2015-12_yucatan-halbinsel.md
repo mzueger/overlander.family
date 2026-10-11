@@ -1,7 +1,7 @@
 ---
 title: Yucatan Halbinsel
 tags:
-  - Südamerika
+  - Nordamerika
   - Mexiko
   - Tulum
   - Yucatan

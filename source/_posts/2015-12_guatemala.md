@@ -1,7 +1,7 @@
 ---
 title: Guatemala
 tags:
-  - Südamerika
+  - Mittelamerika
   - Guatemala
   - Tikal
   - Flores
