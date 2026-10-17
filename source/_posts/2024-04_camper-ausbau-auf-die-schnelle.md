@@ -1,11 +1,10 @@
 ---
 title: Camper-Ausbau auf die Schnelle
 tags:
-  - Hilux
-  - Toyota
+  - Toyota Hilux
   - Camper-Ausbau
 category:
-  - Allgemein
+  - Reisevorbereitung
 date: 2024-04-17 21:58:12
 author:
   name: Martin

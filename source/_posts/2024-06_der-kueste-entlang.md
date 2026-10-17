@@ -1,6 +1,7 @@
 ---
 title: Der Küste entlang
 tags:
+  - Europa
   - Spanien
   - Baskenland
   - Kantabrien

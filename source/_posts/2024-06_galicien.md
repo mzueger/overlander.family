@@ -1,6 +1,7 @@
 ---
 title: Galicien
 tags:
+  - Europa
   - Spanien
   - Galicien
   - A Coruña

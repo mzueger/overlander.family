@@ -1,6 +1,7 @@
 ---
 title: Quer durch Frankreich
 tags:
+  - Europa
   - Frankreich
   - Annecy
   - Millau

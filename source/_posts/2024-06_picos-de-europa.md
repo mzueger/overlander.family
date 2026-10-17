@@ -1,7 +1,10 @@
 ---
 title: Picos de Europa
 tags:
+  - Europa
   - Spanien
+  - Parque Nacional de los Picos de Europa
+  - Vigo
 category:
   - Reiseberichte
   - Spanien 2024

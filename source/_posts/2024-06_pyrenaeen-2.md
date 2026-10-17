@@ -1,6 +1,7 @@
 ---
 title: Pyrenäen - zweiter Anlauf
 tags:
+  - Europa
   - Andorra
   - Spanien
   - Katalonien

@@ -1,6 +1,7 @@
 ---
 title: Pyrenäen
 tags:
+  - Europa
   - Andorra
   - Spanien
   - Katalonien
