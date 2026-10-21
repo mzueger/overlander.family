@@ -48,7 +48,7 @@ Sonntag schlafen wir aus und machen uns gegen 11 Uhr auf Richtung Flughafen. Um 
 
 ![Andere Land Rover in der Werkstatt ](/images/2015-03_ein-holpriger-start/2015-03-09_160554__DSC_0020.jpg)
 
-![Einziges "Hotel" in der Gegend. Kein Luxus, aber sauber und nette Leute. ](/images/2015-03_ein-holpriger-start/2015-03-10_155021__DSC_0032.jpg)
+![Einziges Hotel in der Gegend. Kein Luxus, aber sauber und nette Leute. ](/images/2015-03_ein-holpriger-start/2015-03-10_155021__DSC_0032.jpg)
 
 ![Unsere Rettung: Die Firma FWD in Waake bei Göttingen. ](/images/2015-03_ein-holpriger-start/2015-03-11_143008__DSC_0037.jpg)
 
@@ -76,7 +76,7 @@ Sonntag schlafen wir aus und machen uns gegen 11 Uhr auf Richtung Flughafen. Um 
 
 ![Fränzi auf dem Rathausplatz ](/images/2015-03_ein-holpriger-start/2015-03-14_110324__IMG_0174.jpg)
 
-![Hamburg bei "Schietwetter" ](/images/2015-03_ein-holpriger-start/2015-03-14_110519__IMG_0176.jpg)
+![Hamburg bei 'Schietwetter' ](/images/2015-03_ein-holpriger-start/2015-03-14_110519__IMG_0176.jpg)
 
 ![Fernsehturm Hamburg (Heinrich-Hertz-Turm) ](/images/2015-03_ein-holpriger-start/2015-03-14_112303__IMG_0178.jpg)
 

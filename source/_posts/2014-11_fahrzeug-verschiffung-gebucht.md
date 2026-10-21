@@ -2,6 +2,7 @@
 title: Fahrzeug Verschiffung gebucht
 tags:
   - Reisevorbereitung
+  - Fahrzeugverschiffung
 category:
   - Panamericana 2015/2016
 date: 2014-11-26T22:12:00

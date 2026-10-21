@@ -47,7 +47,7 @@ Als wir gegen 15 Uhr zum zweiten Mal die Niagara Fälle besuchen, steht sogar ei
 
 ![Wo ist nur das Wasser? ](/images/2015-03_toronto-niagra-falls/2015-03-16_160919__IMG_0200.jpg)
 
-![Gegenverkehr im "Duck Canal" ](/images/2015-03_toronto-niagra-falls/2015-03-16_161037__IMG_0203.jpg)
+![Gegenverkehr im 'Duck Canal' ](/images/2015-03_toronto-niagra-falls/2015-03-16_161037__IMG_0203.jpg)
 
 ![Toronto Chinatown ](/images/2015-03_toronto-niagra-falls/2015-03-16_170221__IMG_0219.jpg)
 

@@ -3,6 +3,7 @@ title: Erster Ausflug mit dem neuen Landy
 tags:
   - Europa
   - Österreich
+  - Land Rover Defender
 category:
   - Kurztrip
 date: 2013-12-15T23:03:00
@@ -11,7 +12,7 @@ author:
 published: true
 ---
 
-![](/images/2013-12-15_erster-ausflug-mit-dem-neuen-landy/2013-12-15_092917__Buerserberg.jpg)
+![](/images/2013-12_erster-ausflug-mit-dem-neuen-landy/2013-12-15_092917__Buerserberg.jpg)
 
 Es ist Dezember und wir wollen unbedingt die Standheizung unseres neuen Goldstücks bei eisiger Kälte testen. So haben wir unseren Land Rover für ein kurzes Wochenende ausgestattet und sind am frühen Morgen Richtung Feldkirch (Österreich) losgefahren.<!-- more --> Am Bürserberg (im Brandnertal) angekommen, wollen wir am Vormittag Schneeschuhlaufen gehen, jedoch hat es dafür einfach zu wenig Neuschnee. Schnell haben wir die Wanderschuhe montiert und folgen ganz gemütlich einem Wanderweg.
 
